@@ -129,7 +129,7 @@
                      About Shivam Industries
                  </h4>
                  <p class="text-md">Founded in 2002, Shivam Industries has established itself as a trusted
-                     manufacturer and distributor of high-quality industrial chemicals, solvents, pharma
+                     manufacturer and distributors of high-quality industrial chemicals, solvents, pharma
                      cosmetics, and foundry chemicals. Based in Mumbai, we cater to diverse industries including
                      ethanol, paints, thinners, printing inks, and pharmaceuticals. Guided by the expertise of
                      Mr. Chandan Ganguly, our company has earned a strong reputation for reliability,
@@ -162,7 +162,7 @@
                              </h6>
                              <p class="text-md">
                                  We believe in building long-term relationships with our clients by providing
-                                 premium products, free samples, and timely deliveries through a robust
+                                 premium products and timely deliveries through a robust
                                  distribution network. Our spacious, moisture-resistant warehouse enables safe
                                  storage, maintaining product integrity until it reaches our valued customers.
                              </p>
@@ -209,7 +209,7 @@
          <div class="feature-box">
              <i class="fa-solid fa-briefcase"></i>
              <h4>Nature of Business</h4>
-             <p>Manufacturers & Distributor</p>
+             <p>Manufacturers & Distributors</p>
          </div>
 
          <div class="feature-box">
