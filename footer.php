@@ -101,9 +101,7 @@
                                         Shivam Industries, Mumbai are one of the leading manufacturers and distributor
                                         of a wide range of industrial chemicals, solvents, pharma cosmetics and foundry
                                         chemicals.
-                                        We are offering the samples of our range absolutely free of cost and our
-                                        effective distribution network makes the delivery within the stipulated time
-                                        frame.
+                                        
                                     </p>
                                     <form class="form-newsletter subscribe-form" accept-charset="utf-8"
                                         data-mailchimp="true">
