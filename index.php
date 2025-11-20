@@ -209,7 +209,7 @@
          <div class="feature-box">
              <i class="fa-solid fa-briefcase"></i>
              <h4>Nature of Business</h4>
-             <p>Manufacturers & Distributors</p>
+             <p>Manufacturer & Distributors</p>
          </div>
 
          <div class="feature-box">
@@ -812,7 +812,7 @@
              <div class="swiper-slide">
                  <div class="banner-shop hover-img style-left-center">
                      <a href="product-detail.html" class="img-style d-block">
-                         <img src="img/shivamindustprod/d1.png" data-src="img/shivamindustprod/d1.png" alt=""
+                         <img src="img/d1.png" data-src="img/d1.png" alt=""
                              class="lazyload">
                      </a>
                      <div class="content">
@@ -834,7 +834,7 @@
              <div class="swiper-slide">
                  <div class="banner-shop hover-img style-left-center">
                      <a href="product-detail.html" class="img-style d-block">
-                         <img src="img/shivamindustprod/d2.png" data-src="img/shivamindustprod/d2.png" alt=""
+                         <img src="img/d2.png" data-src="img/d2.png" alt=""
                              class="lazyload">
                      </a>
                      <div class="content">
